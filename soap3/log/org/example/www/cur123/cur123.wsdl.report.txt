@@ -1,0 +1,22 @@
+
+
+Importing file: C:\Users\Sreenivas Bandaru\IBM\ACET12\workspace\soap3\cur123.wsdl
+
+The WSDL import will proceed with bindings cur123SOAP.
+Creating wsdl schema document for file:///C:/Users/Sreenivas Bandaru/IBM/ACET12/workspace/soap3/cur123.wsdl.
+Parsing wsdl binding {http://www.example.org/cur123/}cur123SOAP.
+Parsing wsdl binding input NewOperation.
+Parsing wsdl binding output NewOperation.
+Processing doc style for operation NewOperation.
+Populating WSDL schema cur123.xsd.
+Creating file cur123.xsd in the workspace.
+Creating file cur123_InlineSchema1.xsd in the workspace.
+Copying source WSDL cur123.wsdl to cur123.wsdl.
+
+Elapsed time processing this message definition file: 0.447 seconds
+Number of warnings for this message definition file: 0
+
+
+Number of files processed: 1
+
+
