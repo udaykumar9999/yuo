@@ -1,0 +1,5 @@
+
+
+Importing file: C:\Users\Sreenivas Bandaru\IBM\ACET12\workspace\asynsoap\File.wsdl
+
+Parsing wsdl binding {http://www.example.org/File/}FileSOAP.
