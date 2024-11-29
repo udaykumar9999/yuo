@@ -1,0 +1,14 @@
+path broker;
+CREATE COMPUTE MODULE messagebroker_Compute
+	CREATE FUNCTION Main() RETURNS BOOLEAN
+	BEGIN
+		declare var1 character 'uday';
+		declare var2 CHARACTER 'kumar';
+		declare var3 CHARACTER;
+		call broker.p1(var1,var2,var3);
+		set OutputRoot.JSON.Data.result=var3;
+		
+		RETURN TRUE;
+	END;
+
+END MODULE;
