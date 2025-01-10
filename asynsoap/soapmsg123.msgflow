@@ -13,10 +13,10 @@
       <nodes xmi:type="ComIbmSOAPReply.msgnode:FCMComposite_1" xmi:id="FCMComposite_1_3" location="654,180">
         <translation xmi:type="utility:ConstantString" string="SOAP Reply"/>
       </nodes>
-      <nodes xmi:type="ComIbmCompute.msgnode:FCMComposite_1" xmi:id="FCMComposite_1_4" location="361,181" computeExpression="esql://routine/#soapmsg123_Compute.Main">
+      <nodes xmi:type="ComIbmCompute.msgnode:FCMComposite_1" xmi:id="FCMComposite_1_4" location="368,184" computeExpression="esql://routine/#soapmsg123_Compute.Main">
         <translation xmi:type="utility:ConstantString" string="Compute"/>
       </nodes>
-      <nodes xmi:type="ComIbmSOAPAsyncRequest.msgnode:FCMComposite_1" xmi:id="FCMComposite_1_5" location="293,43" asyncResponseCorrelator="uday123" wsdlOperationMode="gateway" wsdlFileName="File12.wsdl" selectedPortType="File12" selectedBinding="File12SOAP" selectedOperation="NewOperation" selectedPort="File12SOAP" targetNamespace="http://www.example.org/File12/" useHTTPTransport="true" webServiceURL="http://localhost:7800/path" sslProtocol="SSL" useAsyncSocket="true">
+      <nodes xmi:type="ComIbmSOAPAsyncRequest.msgnode:FCMComposite_1" xmi:id="FCMComposite_1_5" location="293,43" asyncResponseCorrelator="uday123" wsdlFileName="File12.wsdl" selectedPortType="File12" selectedBinding="File12SOAP" selectedOperation="NewOperation" selectedPort="File12SOAP" targetNamespace="http://www.example.org/File12/" useHTTPTransport="true" webServiceURL="http://localhost:7800/path" sslProtocol="SSL" useAsyncSocket="true">
         <translation xmi:type="utility:ConstantString" string="SOAP Async Request"/>
       </nodes>
       <nodes xmi:type="ComIbmSOAPAsyncResponse.msgnode:FCMComposite_1" xmi:id="FCMComposite_1_6" location="100,175" asyncRequestCorrelator="uday123">
