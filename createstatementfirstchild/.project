@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>brokerschemaex1</name>
+	<name>createstatementfirstchild</name>
 	<comment></comment>
 	<projects>
-		<project>broker</project>
 	</projects>
 	<buildSpec>
 		<buildCommand>
